@@ -1,1 +1,1 @@
-test pull test dev dev
+test pull test test
